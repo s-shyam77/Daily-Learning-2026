@@ -22,3 +22,12 @@ Build projects, improve problem-solving skills, and prepare for internships.
 ## Next Goal
 - Practice another Easy array problem.
 - Improve DSA logic step by step.
+## October 26, 2026
+
+- Solved LeetCode #1672: Richest Customer Wealth.
+- Practiced Python 2D lists and nested data.
+- Learned to use `sum()` and `max()`.
+- Improved problem-solving skills.
+
+## Next Goal
+- Practice more Easy problems and learn new Python concepts.
