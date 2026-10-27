@@ -31,3 +31,13 @@ Build projects, improve problem-solving skills, and prepare for internships.
 
 ## Next Goal
 - Practice more Easy problems and learn new Python concepts.
+- ## October 27, 2026
+
+- Solved LeetCode #2114: Maximum Number of Words Found in Sentences.
+- Practiced Python strings and the `split()` method.
+- Learned word counting using `len()` and maximum value tracking.
+- Improved loop-based problem-solving skills.
+
+## Next Goal
+- Practice more Easy LeetCode problems.
+- Revise Python strings, lists, and loops.
