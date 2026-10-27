@@ -41,3 +41,21 @@ Build projects, improve problem-solving skills, and prepare for internships.
 ## Next Goal
 - Practice more Easy LeetCode problems.
 - Revise Python strings, lists, and loops.
+
+- ## October 27, 2026 — Python Practice
+
+### Python List Methods
+
+- `append()` — Adds an element to the end of a list.
+- `insert()` — Adds an element at a specific position.
+- `remove()` — Removes a specified element.
+- `pop()` — Removes and returns an element.
+- `sort()` — Sorts the list in ascending order.
+
+### Today's Learning
+- Revised Python list methods.
+- Practiced basic list operations.
+- Continued my daily coding journey.
+
+
+
