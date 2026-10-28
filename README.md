@@ -57,5 +57,14 @@ Build projects, improve problem-solving skills, and prepare for internships.
 - Practiced basic list operations.
 - Continued my daily coding journey.
 
+## October 28, 2026
 
+- Solved LeetCode #136: Single Number.
+- Practiced Python loops and the XOR operator.
+- Learned how duplicate numbers cancel using XOR.
+- Continued building problem-solving skills.
+
+### Next Goal
+- Practice more array problems.
+- Improve Python and DSA fundamentals.
 
