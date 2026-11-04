@@ -80,3 +80,14 @@ Build projects, improve problem-solving skills, and prepare for internships.
 - Practice more Easy Array problems.
 - Improve Python logic.
 - Continue daily GitHub contributions.
+- ## November 4, 2026
+
+- Solved LeetCode #136: Single Number.
+- Practiced Python lists and loops.
+- Learned the list count() method.
+- Revised if conditions and return statements.
+- Improved problem-solving skills using Python.
+
+### Next Goal
+- Practice more Python array problems.
+- Learn efficient approaches using XOR.
