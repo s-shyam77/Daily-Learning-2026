@@ -91,3 +91,20 @@ Build projects, improve problem-solving skills, and prepare for internships.
 ### Next Goal
 - Practice more Python array problems.
 - Learn efficient approaches using XOR.
+- ## Day 12 – November 5, 2026
+
+### LeetCode #1563 – Stone Game V
+
+- Language: Python
+- Difficulty: Hard
+- Topics: Dynamic Programming, Prefix Sum, Binary Search
+- Learned 2D DP.
+- Practiced Recursion and Memoization.
+- Understood Prefix Sum for range calculations.
+- Learned Binary Search optimization.
+- Improved an O(n^3) approach to O(n^2 log n).
+- Space Complexity: O(n^2).
+
+### Key Learning
+Learned how to optimize a correct but slow solution
+using Binary Search and precomputed DP tables.
