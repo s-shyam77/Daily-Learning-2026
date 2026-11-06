@@ -108,3 +108,18 @@ Build projects, improve problem-solving skills, and prepare for internships.
 ### Key Learning
 Learned how to optimize a correct but slow solution
 using Binary Search and precomputed DP tables.
+
+## Day 06 - November 6, 2026
+
+### LeetCode #121 - Best Time to Buy and Sell Stock
+
+- Language: Python
+- Topic: Arrays and Greedy
+- Concept: Finding maximum profit by tracking minimum buying price.
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- Status: Completed
+
+### Key Learning
+Learned how to track the minimum price
+and calculate maximum profit in a single pass.
