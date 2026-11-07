@@ -123,3 +123,20 @@ using Binary Search and precomputed DP tables.
 ### Key Learning
 Learned how to track the minimum price
 and calculate maximum profit in a single pass.
+
+### Day  — November 7, 2026
+
+**LeetCode #36 – Valid Sudoku**
+
+- **Language:** Python
+- **Topic:** Arrays, Hash Sets, Matrix
+- **Concepts Learned:**
+  - Using Python sets to detect duplicates.
+  - Traversing a 2D matrix using nested loops.
+  - Checking rows, columns and 3×3 sub-boxes.
+  - Using floor division (`//`) to calculate box indexes.
+- **Approach:** Used three sets collections to track numbers in rows, columns and 3×3 boxes.
+- **Time Complexity:** O(1) for fixed 9×9 Sudoku.
+- **Space Complexity:** O(1) for fixed 9×9 Sudoku.
+
+**Learning:** Practiced matrix traversal and duplicate detection using Python sets.
