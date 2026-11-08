@@ -140,3 +140,12 @@ and calculate maximum profit in a single pass.
 - **Space Complexity:** O(1) for fixed 9×9 Sudoku.
 
 **Learning:** Practiced matrix traversal and duplicate detection using Python sets.
+
+### Day 9 – November 8, 2026
+- **LeetCode Problem:** [#9 - Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- **Language:** Python
+- **Concepts:** While Loop, Modulo (%), Integer Division (//)
+- **Approach:** Reversed the number mathematically and compared it with the original number.
+- **Time Complexity:** O(log n)
+- **Space Complexity:** O(1)
+- **Learning:** Learned how to reverse an integer without converting it into a string.
