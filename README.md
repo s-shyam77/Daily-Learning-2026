@@ -149,3 +149,13 @@ and calculate maximum profit in a single pass.
 - **Time Complexity:** O(log n)
 - **Space Complexity:** O(1)
 - **Learning:** Learned how to reverse an integer without converting it into a string.
+
+- ### Day 10 – November 9, 2026
+- **LeetCode Problem:** [#27 - Remove Element](https://leetcode.com/problems/remove-element/)
+- **Language:** Python
+- **Topic:** Arrays, Two Pointers
+- **Concepts:** For Loop, If Condition, Indexing
+- **Approach:** Used a pointer to place all elements that are not equal to the given value at the beginning of the array.
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+- **Learning:** Practiced in-place array modification using the two-pointer technique.
