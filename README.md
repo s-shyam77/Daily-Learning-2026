@@ -159,8 +159,7 @@ and calculate maximum profit in a single pass.
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1)
 - **Learning:** Practiced in-place array modification using the two-pointer technique.
-- 
-### Day 11 – November 10, 2026
+- ### Day 11 – November 10, 2026
 - **LeetCode Problem:** [#66 - Plus One](https://leetcode.com/problems/plus-one/)
 - **Language:** Python
 - **Topic:** Arrays, Carry Logic
@@ -169,4 +168,5 @@ and calculate maximum profit in a single pass.
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1) auxiliary space
 - **Learning:** Practiced reverse traversal, carry handling, and in-place list modification.
+
 
