@@ -168,5 +168,14 @@ and calculate maximum profit in a single pass.
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1) auxiliary space
 - **Learning:** Practiced reverse traversal, carry handling, and in-place list modification.
+- ### Day 13 – November 12, 2026
+
+**LeetCode #326 – Power of Three**
+
+- Language: Python
+- Approach: Mathematical / Divisibility
+- Learned how to check whether a number is a power of three.
+- Time Complexity: O(1)
+- Space Complexity: O(1)
 
 
