@@ -177,5 +177,13 @@ and calculate maximum profit in a single pass.
 - Learned how to check whether a number is a power of three.
 - Time Complexity: O(1)
 - Space Complexity: O(1)
+- ## Day 14 - LeetCode 137
+
+- Problem: Single Number II
+- Language: Python
+- Concepts: Bit Manipulation, XOR, Bitwise AND, NOT
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+- Learned how to find a unique number when every other number appears three times.
 
 
