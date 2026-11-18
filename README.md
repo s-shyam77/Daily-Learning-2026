@@ -187,5 +187,22 @@ and calculate maximum profit in a single pass.
 - Learned how to find a unique number when every other number appears three times.
 
 - Solved LeetCode Problem 371 - Sum of Two Integers using Python. Implemented bit manipulation to perform addition without using the + or - operators. Practiced XOR, AND, left shift operations, carry generation, and 32-bit integer masking to handle negative numbers and overflow. Improved understanding of low-level arithmetic and bitwise operations.
+- # LeetCode 54 - Spiral Matrix
+# Approach: Spiral Traversal
+# Time Complexity: O(m * n)
+# Space Complexity: O(m * n)
+
+class Solution:
+    def spiralOrder(self, matrix):
+        res = []
+
+        while matrix:
+            res += matrix.pop(0)
+
+            if matrix:
+                matrix = list(zip(*matrix))[::-1]
+
+        return res
+
 
 
