@@ -203,6 +203,28 @@ class Solution:
 
         return res
         
+### Day 20 - LeetCode 29: Divide Two Integers
+
+- **Problem:** Divide Two Integers
+- **Language:** Python
+- **Concepts Learned:**
+  - Bit Manipulation
+  - Left Shift Operator
+  - Binary Doubling
+  - Integer Overflow
+  - Time Complexity Optimization
+
+- **Approach:** Used bit shifting and repeated subtraction
+  to calculate division without using multiplication,
+  division, or modulo operators.
+
+- **Time Complexity:** O(log² N)
+- **Space Complexity:** O(1)
+
+**Status:** Solved ✅
+
+        
+        
 
 
 
