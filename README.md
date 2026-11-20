@@ -223,6 +223,23 @@ class Solution:
 
 **Status:** Solved ✅
 
+
+## Day 20 - LeetCode 509: Fibonacci Number
+
+- **Problem:** Fibonacci Number
+- **Platform:** LeetCode
+- **Problem Number:** 509
+- **Language:** Python 3
+- **Approach:** Iterative Approach
+- **Concepts Learned:**
+  - Fibonacci Sequence
+  - Loops and Iteration
+  - Multiple Variable Assignment
+  - Space Optimization
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+- **Status:** Solved ✅
+
         
         
 
