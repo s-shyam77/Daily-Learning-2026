@@ -240,7 +240,7 @@ class Solution:
 - **Space Complexity:** O(1)
 - **Status:** Solved ✅
 
-        
+        Day 21: Solved LeetCode 67 – Add Binary using Python. Practiced binary-to-decimal conversion, addition of binary numbers, and string manipulation. Improved problem-solving skills and understanding of number systems.
         
 
 
