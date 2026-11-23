@@ -281,7 +281,14 @@ class Solution:
 
         return num
 
-        
+        ### Day 23 – LeetCode 26: Remove Duplicates from Sorted Array
+- **Language:** Python
+- **Concept:** Two Pointers
+- **Approach:** In-place modification
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+
+**Learning:** Practiced removing duplicate elements from a sorted array using the two-pointer technique.
 
 
 
