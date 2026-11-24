@@ -289,6 +289,12 @@ class Solution:
 - **Space Complexity:** O(1)
 
 **Learning:** Practiced removing duplicate elements from a sorted array using the two-pointer technique.
+### Day 58 - LeetCode #58
+- Problem: Length of Last Word
+- Language: Python
+- Concepts: String, strip(), split(), len()
+- Time Complexity: O(n)
+- Space Complexity: O(n)
 
 
 
